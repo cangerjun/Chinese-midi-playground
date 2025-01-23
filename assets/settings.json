@@ -1,0 +1,21 @@
+{
+    "theme": "dark",
+    "seed": null,
+    "camera_mode": 2,
+    "start_playing_delay": 1000,
+    "max_notes": null,
+    "bounce_min_spacing": 30,
+    "square_speed": 600,
+    "volume": 33,
+    "music_offset": 0,
+    "direction_change_chance": 47,
+    "hp_drain_rate": 10,
+    "theatre_mode": true,
+    "particle_trail": true,
+    "shader_file_name": "none.glsl",
+    "do_color_bounce_pegs": false,
+    "do_particles_on_bounce": true,
+    "language": "chinese",
+    "SCREEN_WIDTH": 1920,
+    "SCREEN_HEIGHT": 1080
+}
